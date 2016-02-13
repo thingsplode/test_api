@@ -1,4 +1,4 @@
-# Mojo - The test workbench 
+# Test Api - The test workbench 
 Test tool for simulating errors and exceptional situations on a Linux system
 
 ** Work in progress **
