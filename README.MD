@@ -3,6 +3,21 @@ Test tool for simulating errors and exceptional situations on a Linux system
 
 ** Work in progress **
 
+## Installing after cloning
+
+```
+cd /path/to/test_api
+virtualenv tapi_env
+./tapi_env/bin/pip install flask
+./tapi_env/bin/pip install python-iptables
+```
+
+## Running the server
+```
+chmod +x app.py
+sudo ./app.py
+```
+
 ## Firewall functions
 
 ### List current rules
